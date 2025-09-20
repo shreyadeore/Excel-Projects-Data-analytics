@@ -45,12 +45,11 @@ Each project demonstrates skills in data cleaning, transformation, visualization
 - Storytelling with Data
 
 ---
-screenshots
+Screenshots
+
 Ferns And Petals Dashboard <img width="1859" height="801" alt="Screenshot 2025-08-01 192945" src="https://github.com/user-attachments/assets/4119d599-5ced-4ccc-b58b-35126437c1e3" />
 Cafe Shop Dashboard <img width="1814" height="849" alt="Screenshot 2025-08-02 173829" src="https://github.com/user-attachments/assets/5fd0f038-4b7d-4909-a78d-b85c3e6f3e1b" />
 Good reads Dashboard<img width="1869" height="769" alt="Screenshot 2025-08-03 215950" src="https://github.com/user-attachments/assets/6838847e-88bb-4091-b6e7-adb2319ef8bd" />
 
 
 
-
-## 📂 Repository Structure
